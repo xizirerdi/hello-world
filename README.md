@@ -1,3 +1,3 @@
 # hello-world
 Bu çalışmam ile git-hub'ı hatım etmek istiyorum.
-Elhamdürillah ezan okunurken ne güzeldir betiklemek.
+Elhamdürillah sela okunurken ne güzeldir betiklemek.
